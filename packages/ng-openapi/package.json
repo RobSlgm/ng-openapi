@@ -36,8 +36,8 @@
     "directory": "packages/ng-openapi"
   },
   "funding": {
-    "type": "buymeacoffee",
-    "url": "https://buymeacoffee.com/ngopenapi"
+    "type": "github",
+    "url": "https://github.com/sponsors/ng-openapi"
   },
   "main": "./index.cjs",
   "module": "./index.js",

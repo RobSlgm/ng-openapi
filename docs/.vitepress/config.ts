@@ -64,6 +64,7 @@ export default defineConfig({
             { text: "Guide", link: "/guide/guides" },
             { text: "API", link: "/api/cli" },
             { text: "⚡ Examples", link: "https://stackblitz.com/@Mr-Jami/collections/ng-openapi-examples" },
+            { text: "💖 Sponsor", link: "https://github.com/sponsors/ng-openapi" },
             {
                 text: `v${packageJson.version}`,
                 items: [
